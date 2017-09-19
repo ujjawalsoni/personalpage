@@ -6,11 +6,16 @@ My research interest spans the domain of Machine Learning, Deep Learning and Soc
 
 
 # Publications
-
-- <a href="https://link.springer.com/chapter/10.1007/978-3-319-57529-2_12"><h3>Fairness Aware Recommendations on Behance, <i>Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2017</i></h3></a>
-  <h5></h5>
+<ul>
+<li> <h3> <a href="https://link.springer.com/chapter/10.1007/978-3-319-57529-2_12"> "Fairness Aware Recommendations on Behance". </a> 
+  <i> Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2017 </i> </h3>
   <h5> Natwar Modani, Deepali Jain, Ujjawal Soni, Gaurav Kumar Gupta, Palak Agarwal </h5>
-  
+</li>
+</ul>
+
+
+# Projects
+
 
 
 # Contact Me
